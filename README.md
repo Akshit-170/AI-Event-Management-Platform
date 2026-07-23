@@ -208,7 +208,7 @@ Additional project documentation is available below:
 
 - [Problem Analysis](docs/01-Problem-Analysis.md)
 - [Workflow Documentation](docs/02-Workflow-Documentation.md)
-- [Project Presentation](docs/AI-Powered-Event-Management-Platform.pdf)
+- [Project Presentation](docs/AI-Event-Management-Platform.pdf)
 
 ---
 
